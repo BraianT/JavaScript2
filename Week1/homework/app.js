@@ -129,7 +129,7 @@
 
 
 
-  let test = Object.keys(obj)
+  let test = Object.keys(obj);
 
   console.log(test);
 
